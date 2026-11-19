@@ -1,0 +1,12 @@
+{
+  "animals": [
+    {"id": "anaconda", "name": "Anaconda", "file": "svg/anaconda.svg"},
+    {"id": "inland-taipan", "name": "Inland taipan", "file": "svg/inland-taipan.svg"},
+    {"id": "black-snake", "name": "Black snake", "file": "svg/black-snake.svg"},
+    {"id": "king-cobra", "name": "King cobra", "file": "svg/king-cobra.svg"},
+    {"id": "coral-snake", "name": "Coral snake", "file": "svg/coral-snake.svg"},
+    {"id": "rattlesnake", "name": "Rattlesnake", "file": "svg/rattlesnake.svg"},
+    {"id": "ball-python", "name": "Ball python", "file": "svg/ball-python.svg"},
+    {"id": "vine-snake", "name": "Vine snake", "file": "svg/vine-snake.svg"}
+  ]
+}

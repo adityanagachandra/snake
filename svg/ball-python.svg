@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72"><title>Ball python</title><style>.b{transform-box:fill-box;transform-origin:center;animation:s 1.8s ease-in-out infinite}.b:nth-child(2){animation-delay:-.2s}.b:nth-child(3){animation-delay:-.4s}.b:nth-child(4){animation-delay:-.6s}.b:nth-child(5){animation-delay:-.8s}.b:nth-child(6){animation-delay:-1s}.b:nth-child(7){animation-delay:-1.2s}.b:nth-child(8){animation-delay:-1.4s}.b:nth-child(9){animation-delay:-1.6s}@keyframes s{0%,100%{transform:translateY(-3px)}50%{transform:translateY(3px)}}@media (prefers-reduced-motion:reduce){.b{animation:none}}.t{fill:#4e321b}.l{fill:#c9a36a}.d{fill:#2c1b0c}</style><g>
+<g class="b"><path class="t" d="M8 37Q22 32 40 29V45Q22 42 8 37Z"/><ellipse class="l" cx="30" cy="35" rx="5" ry="2.5"/></g>
+<g class="b"><ellipse class="t" cx="46" cy="36" rx="16" ry="9"/><ellipse class="l" cx="46" cy="33" rx="7" ry="4.5"/><ellipse class="d" cx="46" cy="33" rx="2.5" ry="1.5"/></g>
+<g class="b"><ellipse class="t" cx="70" cy="36" rx="16" ry="10.5"/><ellipse class="l" cx="70" cy="39" rx="7" ry="5"/><ellipse class="d" cx="70" cy="39" rx="2.5" ry="1.6"/></g>
+<g class="b"><ellipse class="t" cx="94" cy="36" rx="16" ry="11.5"/><ellipse class="l" cx="94" cy="32.5" rx="7.5" ry="5.5"/><ellipse class="d" cx="94" cy="32.5" rx="2.8" ry="1.8"/></g>
+<g class="b"><ellipse class="t" cx="118" cy="36" rx="16" ry="12.5"/><ellipse class="l" cx="118" cy="39.5" rx="7.5" ry="6"/><ellipse class="d" cx="118" cy="39.5" rx="2.8" ry="1.8"/></g>
+<g class="b"><ellipse class="t" cx="142" cy="36" rx="16" ry="13"/><ellipse class="l" cx="142" cy="32" rx="8" ry="6"/><ellipse class="d" cx="142" cy="32" rx="3" ry="2"/></g>
+<g class="b"><ellipse class="t" cx="166" cy="36" rx="16" ry="13"/><ellipse class="l" cx="166" cy="40" rx="8" ry="6"/><ellipse class="d" cx="166" cy="40" rx="3" ry="2"/></g>
+<g class="b"><ellipse class="t" cx="188" cy="36" rx="15" ry="12"/><ellipse class="l" cx="188" cy="32.5" rx="7" ry="5.5"/><ellipse class="d" cx="188" cy="32.5" rx="2.6" ry="1.8"/></g>
+<g class="b"><path class="t" d="M196 27Q218 25 230 31Q235 36 230 41Q218 47 196 45Z"/><path class="l" d="M200 32Q216 29 229 34L229 35.5Q214 33 200 36Z"/><circle class="d" cx="220" cy="32.5" r="1.9"/></g>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72"><title>Vine snake</title><style>.b{transform-box:fill-box;transform-origin:center;animation:s 1.8s ease-in-out infinite}.b:nth-child(2){animation-delay:-.2s}.b:nth-child(3){animation-delay:-.4s}.b:nth-child(4){animation-delay:-.6s}.b:nth-child(5){animation-delay:-.8s}.b:nth-child(6){animation-delay:-1s}.b:nth-child(7){animation-delay:-1.2s}.b:nth-child(8){animation-delay:-1.4s}.b:nth-child(9){animation-delay:-1.6s}@keyframes s{0%,100%{transform:translateY(-3px)}50%{transform:translateY(3px)}}@media (prefers-reduced-motion:reduce){.b{animation:none}}.g{fill:#6fbf35}.y{fill:#c6ea7a}.d{fill:#1d3a10}</style><g>
+<g class="b"><path class="g" d="M6 36Q16 35.2 30 34.4V37.6Q16 36.8 6 36Z"/></g>
+<g class="b"><ellipse class="g" cx="40" cy="36" rx="13" ry="2"/><ellipse class="y" cx="40" cy="36.9" rx="11" ry=".7"/></g>
+<g class="b"><ellipse class="g" cx="64" cy="36" rx="13" ry="2.4"/><ellipse class="y" cx="64" cy="37.1" rx="11" ry=".8"/></g>
+<g class="b"><ellipse class="g" cx="88" cy="36" rx="13" ry="2.8"/><ellipse class="y" cx="88" cy="37.3" rx="11" ry=".9"/></g>
+<g class="b"><ellipse class="g" cx="112" cy="36" rx="13" ry="3"/><ellipse class="y" cx="112" cy="37.4" rx="11" ry="1"/></g>
+<g class="b"><ellipse class="g" cx="136" cy="36" rx="13" ry="3.2"/><ellipse class="y" cx="136" cy="37.5" rx="11" ry="1.1"/></g>
+<g class="b"><ellipse class="g" cx="160" cy="36" rx="13" ry="3.2"/><ellipse class="y" cx="160" cy="37.5" rx="11" ry="1.1"/></g>
+<g class="b"><ellipse class="g" cx="184" cy="36" rx="13" ry="3"/><ellipse class="y" cx="184" cy="37.4" rx="11" ry="1"/></g>
+<g class="b"><path class="g" d="M192 33Q206 31 214 33L235 36L214 38.5Q206 40.5 192 39Z"/><path class="y" d="M196 37.5Q208 38 214 37.4L230 36.4L214 38.6Q206 39.8 196 38.6Z"/><path class="d" d="M209 34.2L232 35.8L209 35Z"/><circle class="d" cx="207" cy="34.6" r="1.4"/></g>
+</g></svg>

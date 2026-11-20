@@ -1,9 +1,6 @@
 (function (root) {
-  function scriptBase() {
-    var s = document.currentScript;
-    if (!s || !s.src) return '';
-    return s.src.replace(/[^/]*$/, '');
-  }
+  var own = (typeof document !== 'undefined' && document.currentScript && document.currentScript.src) || '';
+  var BASE = own.replace(/[^/]*$/, '');
 
   function index(count, date) {
     var d = date ? new Date(date) : new Date();
@@ -14,7 +11,7 @@
   function mount(el, opts) {
     if (!el || typeof fetch !== 'function') return Promise.resolve(null);
     opts = opts || {};
-    var base = opts.base || scriptBase();
+    var base = opts.base || BASE;
     return fetch(base + 'snakes.json').then(function (r) { return r.json(); }).then(function (data) {
       var list = data.animals || [];
       if (!list.length) return null;
